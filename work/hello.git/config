@@ -3,4 +3,4 @@
 	filemode = true
 	bare = true
 [remote "origin"]
-	url = /home/ubuntu/git_learning_project/work/hello
+	url = https://learn.01founders.co/git/bbatrinu/git
