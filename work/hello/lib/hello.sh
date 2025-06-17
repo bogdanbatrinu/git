@@ -2,4 +2,3 @@
 echo "What's your name"
 read my_name
 echo "Hello, $my_name"
-echo "This is a comment
